@@ -1,5 +1,5 @@
 const calculadora = {
-  somar: (a, b) => a - b,
+  somar: (a, b) => a + b,
   multiplicar: (a, b) => a * b,
 };
 
